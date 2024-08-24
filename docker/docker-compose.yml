@@ -1,0 +1,11 @@
+services:
+  DimaDb:
+    image: postgres:latest
+    container_name: dima-db
+    restart: always
+    ports:
+      - "4800:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: dima

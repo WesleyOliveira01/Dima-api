@@ -1,0 +1,11 @@
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\bin\Debug\net8.0\Dima.core.deps.json
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\bin\Debug\net8.0\Dima.core.dll
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\bin\Debug\net8.0\Dima.core.pdb
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.AssemblyInfoInputs.cache
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.AssemblyInfo.cs
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.csproj.CoreCompileInputs.cache
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.dll
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\refint\Dima.core.dll
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.pdb
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\ref\Dima.core.dll
