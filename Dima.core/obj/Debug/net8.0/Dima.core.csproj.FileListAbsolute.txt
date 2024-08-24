@@ -5,6 +5,7 @@ C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.
 C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.AssemblyInfoInputs.cache
 C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.AssemblyInfo.cs
 C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.csproj.CoreCompileInputs.cache
+C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.sourcelink.json
 C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.dll
 C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\refint\Dima.core.dll
 C:\Users\Fiber Banda Larga\dev\dotnet\dima\Dima.core\obj\Debug\net8.0\Dima.core.pdb
