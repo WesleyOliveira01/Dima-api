@@ -4,7 +4,6 @@ namespace Dima.core.Responses;
 
 public class Response<T>
 {
-    
     private readonly int _code;
 
     [JsonConstructor]
@@ -21,5 +20,6 @@ public class Response<T>
     public string? Message { get; set; } = string.Empty;
 
     [JsonIgnore]
-    public bool IsSuccess => _code >= 200 && _code < 300;
+    public bool IsSuccess => _code >= 200 && _code <= 299;
 }
+
