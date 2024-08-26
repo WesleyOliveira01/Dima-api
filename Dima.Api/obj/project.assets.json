@@ -2750,19 +2750,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fiber Banda Larga\\.nuget\\packages\\": {}
+    "/home/wesleyoliveiradev01/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.Api\\Dima.Api.csproj",
+      "projectUniqueName": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.Api/Dima.Api.csproj",
       "projectName": "Dima.Api",
-      "projectPath": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.Api\\Dima.Api.csproj",
-      "packagesPath": "C:\\Users\\Fiber Banda Larga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.Api\\obj\\",
+      "projectPath": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.Api/Dima.Api.csproj",
+      "packagesPath": "/home/wesleyoliveiradev01/.nuget/packages/",
+      "outputPath": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fiber Banda Larga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/wesleyoliveiradev01/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2774,8 +2774,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\Dima.core.csproj": {
-              "projectPath": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\Dima.core.csproj"
+            "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/Dima.core.csproj": {
+              "projectPath": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/Dima.core.csproj"
             }
           }
         }
@@ -2837,7 +2837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

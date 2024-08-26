@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\Dima.core.csproj": {}
+    "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/Dima.core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\Dima.core.csproj": {
+    "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/Dima.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\Dima.core.csproj",
+        "projectUniqueName": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/Dima.core.csproj",
         "projectName": "Dima.core",
-        "projectPath": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\Dima.core.csproj",
-        "packagesPath": "C:\\Users\\Fiber Banda Larga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fiber Banda Larga\\dev\\dotnet\\dima\\Dima.core\\obj\\",
+        "projectPath": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/Dima.core.csproj",
+        "packagesPath": "/home/wesleyoliveiradev01/.nuget/packages/",
+        "outputPath": "/home/wesleyoliveiradev01/EU/dotnet/Dima-api/Dima.core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fiber Banda Larga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/wesleyoliveiradev01/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

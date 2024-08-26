@@ -30,7 +30,7 @@ namespace Dima.Api.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<long>("Id"));
 
-                    b.Property<string>("Descripcion")
+                    b.Property<string>("Description")
                         .HasMaxLength(255)
                         .HasColumnType("VARCHAR");
 

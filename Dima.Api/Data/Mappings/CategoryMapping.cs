@@ -18,7 +18,7 @@ public class CategoryMapping : IEntityTypeConfiguration<Category>
             .HasMaxLength(80);
             
         builder
-            .Property(x => x.Descripcion)
+            .Property(x => x.Description)
             .IsRequired(false)
             .HasColumnType("VARCHAR")
             .HasMaxLength(255);
